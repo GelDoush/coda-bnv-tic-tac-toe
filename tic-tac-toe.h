@@ -7,4 +7,8 @@ int game(char **tab);
 
 void empty_interface(char **tab);
 
+void victory(char **tab);
+
+void robot(char **tab);
+
 #endif
